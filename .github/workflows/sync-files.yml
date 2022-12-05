@@ -1,0 +1,15 @@
+name: Sync Files
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '*/30 * * * *'
+jobs:
+  file_sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      - name: gh_fsync
+        uses: gleich/gh_fsync@master
