@@ -1,0 +1,21 @@
+files:
+  - source: Patbox's Mods/ArmorStandEditor-en_us.json
+    translation: Patbox's Mods/ArmorStandEditor-en_us.json
+  - source: Patbox's Mods/BiomeTechnologies-en_us.json
+    translation: Patbox's Mods/BiomeTechnologies-en_us.json
+  - source: Patbox's Mods/Brewery-en_us.json
+    translation: Patbox's Mods/Brewery-en_us.json
+  - source: Patbox's Mods/EntityViewDistance-en_us.json
+    translation: Patbox's Mods/EntityViewDistance-en_us.json
+  - source: Patbox's Mods/GOML-ReServed-en_us.json
+    translation: Patbox's Mods/GOML-ReServed-en_us.json
+  - source: Patbox's Mods/Holograms-en_us.json
+    translation: Patbox's Mods/Holograms-en_us.json
+  - source: Patbox's Mods/Polydex-en_us.json
+    translation: Patbox's Mods/Polydex-en_us.json
+  - source: Patbox's Mods/TaterCart-en_us.json
+    translation: Patbox's Mods/TaterCart-en_us.json
+  - source: Patbox's Mods/UniversalGraves-en_us.json
+    translation: Patbox's Mods/UniversalGraves-en_us.json
+  - source: Patbox's Mods/UniversalShops-en_us.json
+    translation: Patbox's Mods/UniversalShops-en_us.json
