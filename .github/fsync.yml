@@ -4,15 +4,15 @@ files:
   - path: Patbox's Mods/BiomeTechnologies-en_us.json
     source: https://github.com/Patbox/BiomeTechnologies/blob/1.19.3/src/main/resources/data/biometech/lang/en_us.json
   - path: Patbox's Mods/Brewery-en_us.json
-    source: https://github.com/Patbox/brewery/blob/master/src/main/resources/data/brewery/lang/en_us.json
+    source: https://github.com/Patbox/brewery/blob/1.19.3/src/main/resources/data/brewery/lang/en_us.json
   - path: Patbox's Mods/EntityViewDistance-en_us.json
-    source: https://github.com/Patbox/EntityViewDistance/blob/1.19/src/main/resources/assets/entityviewdistance/lang/en_us.json
+    source: https://github.com/Patbox/EntityViewDistance/blob/1.19.3/src/main/resources/assets/entityviewdistance/lang/en_us.json
   - path: Patbox's Mods/GOML-ReServed-en_us.json
     source: https://github.com/Patbox/get-off-my-lawn-reserved/blob/1.19.3/src/main/resources/data/goml/lang/en_us.json
   - path: Patbox's Mods/Holograms-en_us.json
     source: https://github.com/Patbox/Holograms/blob/1.19.3/src/main/resources/data/holograms/lang/en_us.json
   - path: Patbox's Mods/Polydex-en_us.json
-    source: https://github.com/Patbox/polydex/blob/1.19/src/main/resources/data/polydex/lang/en_us.json
+    source: https://github.com/Patbox/polydex/blob/1.19.3/src/main/resources/data/polydex/lang/en_us.json
   - path: Patbox's Mods/TaterCart-en_us.json
     source: https://github.com/Patbox/TaterCart/blob/1.19/src/main/resources/data/tatercart/lang/en_us.json
   - path: Patbox's Mods/UniversalGraves-en_us.json
