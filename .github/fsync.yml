@@ -19,3 +19,11 @@ files:
     source: https://github.com/Patbox/UniversalGraves/blob/1.19.3/src/main/resources/data/universal_graves/lang/en_us.json
   - path: Patbox's Mods/UniversalShops-en_us.json
     source: https://github.com/Patbox/UniversalShops/blob/1.19.3/src/main/resources/data/universal_shops/lang/en_us.json
+  - path: Patbox's Mods/PolymerPorts/Trinkets-en_us.json
+    source: https://github.com/PolymerPorts/trinkets/blob/main/src/main/resources/data/trinkets/lang/en_us.json
+  - path: Patbox's Mods/Polymer Ports/FabricWaystones-en_us.json
+    source: https://github.com/PolymerPorts/FabricWaystones/blob/master/src/main/resources/data/polyportwaystones/lang/en_us.json
+  - path: Patbox's Mods/PolymerPorts/Illager-Expansion-Rematch-en_us.json
+    source: https://github.com/PolymerPorts/Illager-Expansion-Rematch/blob/main/src/main/resources/data/illagerexp/lang/en_us.json
+  - path: Patbox's Mods/PolymerPorts/CC-Restitched-en_us.json
+    source: https://github.com/PolymerPorts/cc-restitched/blob/mc-1.19.x/polymer/src/main/resources/data/computercraft/lang/en_us.json
