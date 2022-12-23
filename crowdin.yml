@@ -25,3 +25,5 @@ files:
     translation: Patbox's Mods/PolymerPorts/Illager-Expansion-Rematch-en_us.json
   - source: Patbox's Mods/PolymerPorts/Trinkets-en_us.json
     translation: Patbox's Mods/PolymerPorts/Trinkets-en_us.json
+  - source: Patbox's Mods/PolymerPorts/FabricWaystones-en_us.json
+    translation: Patbox's Mods/PolymerPorts/FabricWaystones-en_us.json
