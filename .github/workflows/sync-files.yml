@@ -3,8 +3,8 @@ on:
   push:
     branches:
       - master
-#  schedule:
-#    - cron: '*/30 * * * *'
+  schedule:
+    - cron: '*/30 * * * *'
 jobs:
   file_sync:
     runs-on: ubuntu-latest
@@ -12,4 +12,4 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
       - name: gh_fsync
-        uses: gleich/gh_fsync@master
+        uses: gleich/gh_fsync@v1.2.0
