@@ -12,4 +12,4 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
       - name: gh_fsync
-        uses: gh_fsync@master
+        uses: gleich/gh_fsync@master
